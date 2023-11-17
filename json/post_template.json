@@ -1,0 +1,20 @@
+{
+    "customerId": "1427570050142879746",
+    "customerName": "梁志辉",
+    "customerTel": "18274705630",
+    "userNum": "2",
+    "customerEmail": "",
+    "gymId": "1297443858304540673",
+    "gymName": "润杨羽毛球馆",
+    "groundId": "1298272520994086913",
+    "groundName": "2号场",
+    "groundType": "0",
+    "messagePushType": "0",
+    "isIllegal": "0",
+    "orderDate": "2023-04-17 19:22:00",
+    "startTime": "2023-04-17 08:00:00",
+    "endTime": "2023-04-17 09:00:00",
+    "tmpOrderDate": "2023-04-17 19:22:00",
+    "tmpStartTime": "2023-04-17 08:00:00",
+    "tmpEndTime": "2023-04-17 09:00:00"
+}
